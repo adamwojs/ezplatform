@@ -15,9 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "AppBundle\\": "src/AppBundle/",
-            "EzSystems\\HybridPlatformUiBundle\\": "src/EzSystems/HybridPlatformUi/src/bundle",
-            "EzSystems\\HybridPlatformUi\\": "src/EzSystems/HybridPlatformUi/src/lib"
+            "AppBundle\\": "src/AppBundle/"
         },
         "classmap": [ "app/AppKernel.php", "app/AppCache.php" ]
     },
