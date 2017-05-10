@@ -69,7 +69,7 @@ twig:
 assetic:
     debug:          "%kernel.debug%"
     use_controller: "%kernel.debug%"
-    bundles:        ['EzSystemsHybridPlatformUiBundle']
+    bundles:        []
     #java: /usr/bin/java
     filters:
         cssrewrite: ~
