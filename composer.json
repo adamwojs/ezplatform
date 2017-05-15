@@ -46,7 +46,7 @@
         "sensio/framework-extra-bundle": "~3.0",
         "willdurand/js-translation-bundle": "^2.6.4",
         "composer/installers": "dev-ezplatform_assets as 1.3.x-dev",
-        "ezsystems/hybrid-platform-ui": "dev-ezp-27351_integration as 1.0.x-dev",
+        "ezsystems/hybrid-platform-ui": "dev-master as 1.0.x-dev",
         "ezsystems/hybrid-platform-ui-core-components": "dev-master as 0.1.x-dev"
     },
     "require-dev": {
