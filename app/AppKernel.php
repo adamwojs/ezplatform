@@ -53,6 +53,10 @@ class AppKernel extends Kernel
             new AppBundle\AppBundle(),
         ];
 
+        if (class_exists('Symfony\Bundle\WebServerBundle\WebServerBundle')) {
+            $bundles[] = new Symfony\Bundle\WebServerBundle\WebServerBundle();
+        }
+
         switch ($this->getEnvironment()) {
             case 'test':
             case 'behat':
