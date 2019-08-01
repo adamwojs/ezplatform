@@ -26,7 +26,7 @@
         "ezsystems/ezplatform-http-cache": "^1.0@dev",
         "ezsystems/ezplatform-richtext": "^2.0@dev",
         "ezsystems/ezplatform-standard-design": "^0.3@dev",
-        "ezsystems/ezplatform-user": "^2.0@dev",
+        "ezsystems/ezplatform-user": "dev-ezp_30687 as 2.0.0",
         "ezsystems/ezpublish-kernel": "^8.0@dev",
         "ezsystems/repository-forms": "^3.0@dev",
         "ezsystems/ezplatform-rest": "^1.0@dev",
